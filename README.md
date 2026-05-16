@@ -1,8 +1,8 @@
 # 🎨 NoteFlow Frontend
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Next.js](https://img.shields.io/badge/Frontend-Next.js%2015-black?style=flat&logo=next.js)](https://nextjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Styling-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css)](https://tailwindcss.com/)
+
 
 A premium, high-performance note-taking interface built with **Next.js 15** and **Tailwind CSS**.
 
@@ -57,7 +57,3 @@ A premium, high-performance note-taking interface built with **Next.js 15** and 
 - **Email**: [kabragautam007@gmail.com](mailto:kabragautam007@gmail.com)
 - **Portfolio**: [Coming Soon]
 
----
-
-## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](../LICENSE) file for details.
